@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR1e0123/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR1e0123/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 春秋地名一卷
+  identifiers:
+    krp: KR1e0123
+  tags:
+    kr-categories: KR1e
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR1e0123.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR1e0123_001-CHANT.yaml, hash: 'sha256:2e099c2c5bd8d76a1160b8fc872d43d61a27d705efbc34a3ce0b11e8a636b3fa'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1e0123_001-CHANT.markers.yaml, hash: 'sha256:1b20abc010783de04daf521509181b9668d04fafc7e5fceec414453719591143'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1e0123_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 13652
+  label: 春秋地名
+  type: section
+  level: 1
+hash: sha256:877930227f91071a4b1213b31a0228a1d02a7a37455cfa54cb0038935f1995d9
