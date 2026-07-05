@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1e0123_001.yaml, hash: 'sha256:f317e3f3fa3c0d3788581c7466a88de3d271882bf3d4003743e4c2ff6ec6e6f3'}
+  - {seq: 1, filename: KR1e0123_001.yaml, hash: 'sha256:2e099c2c5bd8d76a1160b8fc872d43d61a27d705efbc34a3ce0b11e8a636b3fa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1e0123_001.markers.yaml, hash: 'sha256:b87226c735d85814b1b05336cdcbbe8c0ed6f59c776eaae14c7d878fbdab27c9'}
+  - {seq: 1, role: markers, filename: assets/KR1e0123_001.markers.yaml, hash: 'sha256:1350ff2388c766474361f570bdc80cd728bd5abc51c08c871882e5a69f310bc6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 春秋地名
   type: section
   level: 1
-hash: sha256:bfdf6f9b30cb288d719215e9b2779ae16c18e8311e0c69b385a0146b937ebc61
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b622138078b7dc54755b5b720cbd1d3b9bdeb76d7f71281d672799f88f3537c6
