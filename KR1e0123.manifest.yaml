@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1e0123/v1
 canonical_location: https://kanripo.org/bkk/KR1e0123/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 春秋地名一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1e0123_001.yaml, hash: 'sha256:2e099c2c5bd8d76a1160b8fc872d43d61a27d705efbc34a3ce0b11e8a636b3fa'}
+  - {seq: 1, filename: KR1e0123_001.yaml, hash: 'sha256:7fe8437004910fad186440ee7593a2c36c4a217708f2c10a401b8a0ab10b184d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1e0123_001.markers.yaml, hash: 'sha256:1350ff2388c766474361f570bdc80cd728bd5abc51c08c871882e5a69f310bc6'}
+  - {seq: 1, role: markers, filename: assets/KR1e0123_001.markers.yaml, hash: 'sha256:bbbf0ed8a84293ed1c30bd936e54dbd9dfb4a098b299e89fd24edb28d327d02d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 春秋地名
   type: section
   level: 1
-hash: sha256:b622138078b7dc54755b5b720cbd1d3b9bdeb76d7f71281d672799f88f3537c6
+hash: sha256:fc7156d97f16c6c49729e86ab295e04b9c3708f2ccb65bd98efb10c36361d4fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
